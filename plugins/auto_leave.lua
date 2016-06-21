@@ -1,6 +1,7 @@
 do
 local function run(msg, matches)
-local bot_id = 177563453 
+local bot_id = 194647263
+ 
   
     if matches[1] == 'bye' and is_sudo(msg) then
        chat_del_user("chat#id"..msg.to.id, 'user#id'..bot_id, ok_cb, false)
