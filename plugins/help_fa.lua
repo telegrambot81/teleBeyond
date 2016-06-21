@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' and is_momod(msg) then
-  return 'Tele Beyond Command List'.. [[
+  return 'king bot Command List'.. [[
 
 💙 ليست دستورات به زبان فارسي ❤️
 🔴 اخراج [کد،ايدي،ريپلی]
@@ -87,11 +87,10 @@ function run(msg, matches)
 !kosgo
 استفاده کنید👌😂
 ➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel  @BeyondTeam
+Final Version ..
+Team Channel  ...
 Sudo Users :  👤
-@SoLiD021
-@MrHalix ]]
+@Oo_mehdi_shar_khoffash_revale_oO
 end
 end
 
