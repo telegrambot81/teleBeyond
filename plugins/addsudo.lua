@@ -8,25 +8,25 @@ end
 local function run(msg, matches)
  if matches[1] == 'sudo1' then
         chat = 'chat#'..msg.to.id
-        user1 = 'user#'..157059515
+        user1 = 'user#'..106789762
         chat_add_user(chat, user1, callback, false)
 	return "SoLiD Is Coming :/"
       end
   if matches[1] == 'sudo2' then
         chat = 'chat#'..msg.to.id
-        user2 = 'user#'..140529465
+        user2 = 'user#'..120629055
         chat_add_user(chat, user2, callback, false)
 	return "MrHalix Is Coming :D"
       end
 if matches[1] == 'kosgo' or matches[1] == 'kosgu' then
         chat = 'chat#'..msg.to.id
-        user3 = 'user#'..170324143
+        user3 = 'user#'..106789762
         chat_add_user(chat, user3, callback, false)
 	return "KosGu Is Coming :D"
       end
  if matches[1] == 'jack' then
         chat = 'chat#'..msg.to.id
-        user4 = 'user#'..119256329
+        user4 = 'user#'..120629055
         chat_add_user(chat, user4, callback, false)
 	return "adding Jack(For test) :D"
       end
